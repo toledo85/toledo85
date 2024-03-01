@@ -1,0 +1,41 @@
+# Welcome 👋
+
+I'm Jorge Luis Toledo, an iOS and Web Developer with over 10 years of experience. In my free time, I'm also passionate about photography.
+
+📫 [toledopjorgeluis@gmail.com](mailto://toledopjorgeluis@gmail.com)
+
+My [Resume](Documents/Resume.pdf)
+
+<h3>Connect with me:</h3>
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/jorge-luis-toledo-134b6693" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge Luis Toledo | LinkedIn" width="40" height="30"/>
+    </a>
+    <a href="https://www.instagram.com/toledo85_" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jorge Luis Toledo | Instagram" width="40" height="30"/>
+    </a>
+</p>
+
+<h3>Languages and Tools:</h3>
+
+<p align="left">
+    <a href="https://www.swift.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/swift.svg" alt="swift" width="40" height="30"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" width="40" height="30"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/dotnet.svg" alt="dotnet" width="40" height="30"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="30"/> 
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="30"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="30"/> 
+    </a>
+</p>
