@@ -6,18 +6,7 @@ I'm Jorge Luis Toledo, an iOS and Web Developer with over 10 years of experience
 
 My [Resume](Documents/Resume.pdf)
 
-<h3>Connect with me:</h3>
-
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/jorge-luis-toledo-134b6693" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge Luis Toledo | LinkedIn" width="40" height="30"/>
-    </a>
-    <a href="https://www.instagram.com/toledo85_" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jorge Luis Toledo | Instagram" width="40" height="30"/>
-    </a>
-</p>
-
-<h3>Languages and Tools:</h3>
+### Languages and Tools
 
 <p align="left">
     <a href="https://www.swift.org/" target="_blank"> 
