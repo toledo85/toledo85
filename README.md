@@ -2,9 +2,9 @@
 
 I'm Jorge Luis Toledo, an iOS and Web Developer with over 10 years of experience. In my free time, I'm also passionate about photography.
 
-📫 [toledopjorgeluis@gmail.com](mailto://toledopjorgeluis@gmail.com)
-
-My [Resume](Documents/Resume.pdf)
+- 🔗 [refinedstack.com](https://www.refinedstack.com)
+- 📫 [toledopjorgeluis@gmail.com](mailto://toledopjorgeluis@gmail.com)
+- 📄 [Resume](Documents/Resume.pdf)
 
 ### Languages and Tools
 
